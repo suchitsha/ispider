@@ -1,6 +1,9 @@
 # Overview
+This is a fork of TensorFlow for peots 2 to find the location of the identified object. Works well when there are only 2 classes.
 
 This repo contains code for the "TensorFlow for poets 2" series of codelabs.
+
+
 
 There are multiple versions of this codelab depending on which version 
 of the tensorflow libraries you plan on using:
