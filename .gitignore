@@ -1,0 +1,12 @@
+**/*.pyc
+tf_files
+.idea/
+**/*~
+gradle*
+libs/
+local.properties
+android.iml
+.gradle/
+android/assets/*
+results
+results1
